@@ -4,6 +4,8 @@ Project to build an LED chaser with the Raspberry PI PICO
 ![image](IMG_20210805_130053.jpg)
 
 
+(PS: That orange wire sticking out from the right side of the board is what I use to reset the PICO. It's not part of the main circute)
+
 
 You will need:
 
