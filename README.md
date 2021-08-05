@@ -1,6 +1,10 @@
 # Pico_led_chaser
 Project to build an LED chaser with the Raspberry PI PICO
 
+![image](IMG_20210805_130053.jpg)
+
+
+
 You will need:
 
 1. At least 3 tri-color LED's. You can use single color LED's, but you will have to change the code accordingly
